@@ -1,2 +1,2 @@
-# benu-restaurant.github.io.html
+# benu-restaurant.github.io
 benu-restaurant design website
